@@ -14,6 +14,10 @@ I am a college student, musician, athlete, software engineer, and social media d
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/IshmaelSanford/IshmaelSanford/blob/main/github%20bio%20ending.png" alt="IshmaelSanford ender">
+ </p>
+
 <!--
 **IshmaelSanford/IshmaelSanford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
