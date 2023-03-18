@@ -1,4 +1,18 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://https://github.com/IshmaelSanford/IshmaelSanford/blob/main/github%20bio.png" alt="IshmaelSanford logo">
+ </p>
+
+# Who am I?
+
+I am a college student, musician, athlete, software engineer, and social media designer. When I'm not doing math homework, you can find me working on side projects, in the gym, or practicing violin or piano. 
+
+<h2 align="center">Languages I've worked with</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,nodejs,html,css" />
+  </a>
+</p>
 
 <!--
 **IshmaelSanford/IshmaelSanford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
