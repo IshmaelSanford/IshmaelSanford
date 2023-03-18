@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://https://github.com/IshmaelSanford/IshmaelSanford/blob/main/github%20bio.png" alt="IshmaelSanford logo">
+  <img src="https://github.com/IshmaelSanford/IshmaelSanford/blob/main/github%20bio.png" alt="IshmaelSanford logo">
  </p>
 
-# Who am I?
+<h1 align="center">Who am I?</h1>
 
 I am a college student, musician, athlete, software engineer, and social media designer. When I'm not doing math homework, you can find me working on side projects, in the gym, or practicing violin or piano. 
 
