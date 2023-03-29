@@ -9,7 +9,7 @@ I am a college student, musician, athlete, software engineer, and social media d
 <h2 align="center">Languages I've worked with</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="[https://skillicons.dev](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)">
     <img src="https://skillicons.dev/icons?i=js,py,nodejs,html,css" />
   </a>
 </p>
